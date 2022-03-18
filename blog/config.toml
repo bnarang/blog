@@ -1,0 +1,4 @@
+baseURL = 'https://bnarang.github.io/'
+languageCode = 'en-us'
+title = 'My notes on everything I stumble upon'
+theme = 'contrast-hugo'
